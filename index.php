@@ -16,9 +16,9 @@
 
     <script src="js/jquery-2.0.3.min.js"></script>
     <script src="js/jquery-ui-1.10.4.min.js"></script>
-    <script src="js/WXPaint.js"></script>
-    <script src="js/WSync.js"></script>
-    <script src="js/BMark.js"></script>
+    <script src="js/wxpaint.js"></script>
+    <script src="js/wsync.js"></script>
+    <script src="js/bmark.js"></script>
 
 
     <script language="JavaScript">

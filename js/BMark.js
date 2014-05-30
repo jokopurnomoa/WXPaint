@@ -1,9 +1,8 @@
 /**
- * Created with JetBrains PhpStorm.
- * User: JOKO PURNOMO A
- * Date: 5/30/14
- * Time: 7:07 AM
- * To change this template use File | Settings | File Templates.
+ *
+ * WXPaint
+ * Author : Asih Joko Purnomo
+ *
  */
 
 BMark = {

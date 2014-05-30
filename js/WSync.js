@@ -1,12 +1,11 @@
 /**
- * Created with JetBrains PhpStorm.
- * User: JOKO PURNOMO A
- * Date: 5/27/14
- * Time: 7:59 PM
- * To change this template use File | Settings | File Templates.
+ *
+ * WSync
+ * Author : Asih Joko Purnomo
+ *
+ * Required jQuery to run
+ *
  */
-
-/* Required jQuery */
 
 WSync = {
     data: '',

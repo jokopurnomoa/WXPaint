@@ -1,9 +1,10 @@
 /**
- * Created with JetBrains PhpStorm.
- * User: JOKO PURNOMO A
- * Date: 5/27/14
- * Time: 6:56 PM
- * To change this template use File | Settings | File Templates.
+ *
+ * WXPaint
+ * Author : Asih Joko Purnomo
+ *
+ * Required jQuery to run
+ *
  */
 
 WXPaint = {
